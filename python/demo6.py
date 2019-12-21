@@ -1,0 +1,7 @@
+t1=(10,20,30,'alikhan','valikhan',(40,50,60))
+t2=(999,888,777)
+print(t1[2])
+print(t1[3][2])
+print(10 in t1)
+print(t1*2)
+print(t1+t2)
